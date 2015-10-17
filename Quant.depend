@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445106835 source:/home/nick/Documents/Quant/main.cpp
+	<iostream>
+	<cmath>
+
